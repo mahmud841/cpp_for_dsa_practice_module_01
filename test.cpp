@@ -15,9 +15,14 @@ int main()
 
     // std:: cout << a <<b;
     // std:: cout << a << " " <<b;
+    std:: cout <<"I love Bangladesh"<< std::endl;
+    std:: cout <<"I love my family"<< endl;
     std::cout << a << "\n"
-              << b << std::endl;
-              //\n= endl in c++
-    // cout<<"Hello Jannat";
+              << b << "\n"
+              << c << "\n"
+              << d << std::endl;
+    //\n= endl in c++
+    // cout<<"Hello Jannat";  
     return 0;
 }
+// HappY Coding in C++

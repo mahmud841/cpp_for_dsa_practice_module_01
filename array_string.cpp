@@ -18,11 +18,13 @@ int main()
     //     cout << ar[i] << endl;
     // }
     char s[100];
+    int a;
+    cin >> a;
     getchar();
-    // cin >> s;
     // fgets(s,100,stdin);
-    cin.getline(s,100);
+    cin.getline(s, 100);
     // cout << strlen(s) << endl;
+    cout << a << endl;
     cout << s << endl;
 
     return 0;

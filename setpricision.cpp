@@ -3,10 +3,11 @@
 using namespace std;
 int main()
 {
-    double a;
+    double a; 
     cin >> a;
     // printf("%0.3lf\n", a);
-    cout << a << endl;
+    // cout << a << endl;
     cout << fixed << setprecision(4) << a << endl;
+    cout << fixed << setprecision(7) << a << endl;
     return 0;
 }

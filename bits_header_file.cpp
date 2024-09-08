@@ -9,5 +9,5 @@
 using namespace std;
 int main()
 {
-    cout << "jan" << endl;
+    cout << "jft" << endl;
 }
